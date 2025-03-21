@@ -7,7 +7,7 @@ I'm a passionate developer with a keen interest in open-source projects and inno
 🛠️ Technologies & Tools
 | Python | ![Python](python.svg) |
 | Java | ![Java](java.svg) |
-🌐 Front-End Development:
+🌐 Front-End Development:\n
 | Html | ![Html](html.svg) |
 | Css | ![Css](css.svg) |
 | JavaScript | ![JavaScript](javascript.svg) |
