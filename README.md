@@ -6,11 +6,14 @@ My journey in the tech world has been driven by continuously learning new things
 
 🌐 Front-End Development:
 | Html | ![Html](images/html.svg) |
+
 | Css | ![Css](images/css.svg) |
+
 | JavaScript | ![JavaScript](images/javascript.svg) |
 
 🖥️ Software & Platforms:
 | Visual Sutdio Code | ![VisualStudioCode](images/vst.svg) |
+
 | Git | ![Git](images/git.svg) |
 
 ## 📫 How to reach me
