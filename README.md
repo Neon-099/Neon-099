@@ -20,7 +20,7 @@ My journey in the tech world has been driven by continuously learning new things
 ## 📫 How to reach me
 
 - **Email:** Emmannatividad099@gmail.com
-- **LinkedIn:** [Emman Natividad]([https://www.linkedin.com/in/neon-099](https://www.linkedin.com/in/emman-natividad-2172aa2b8/))
+- **LinkedIn:** ([https://www.linkedin.com/in/neon-099](https://www.linkedin.com/in/emman-natividad-2172aa2b8/))
 - **GitHub:** [Neon-099](https://github.com/Neon-099)
 
 ## ⚡ Fun Fact
