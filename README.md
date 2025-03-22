@@ -5,11 +5,13 @@ Hi there, I'm Neony 👋
 My journey in the tech world has been driven by continuously learning new things.
 
 🌐 Front-End Development:
+
 ![Html](images/html.svg)
 ![Css](images/css.svg)
 ![JavaScript](images/javascript.svg)
 
 🖥️ Software & Platforms:
+
 ![VisualStudioCode](images/vst.svg)
 ![Git](images/git.svg)
 
