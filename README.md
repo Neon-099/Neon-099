@@ -19,7 +19,7 @@ My journey in the tech world has been driven by continuously learning new things
 
 When I'm not coding, you can find me reading non-fictional books.
 
-Feel free to explore my repositories and reach out if you'd like to collaborate on any projects!
+Feel free to explore my repositories!
 
 <!---
 Neon-099/Neon-099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
