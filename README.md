@@ -4,23 +4,19 @@ Hi there, I'm Neony 👋
 
 My journey in the tech world has been driven by continuously learning new things.
 
-🛠️ Technologies & Tools
-| Python | ![Python](python.svg) |
-| Java | ![Java](java.svg) |
-
 🌐 Front-End Development:
-| Html | ![Html](html.svg) |
-| Css | ![Css](css.svg) |
-| JavaScript | ![JavaScript](javascript.svg) |
+| Html | ![Html](images/html.svg) |
+| Css | ![Css](images/css.svg) |
+| JavaScript | ![JavaScript](images/javascript.svg) |
 
 🖥️ Software & Platforms:
-| Visual Sutdio Code | ![VisualStudioCode](visualstudiocode.svg) |
-| Git | ![Git](git.svg) |
+| Visual Sutdio Code | ![VisualStudioCode](images/vst.svg) |
+| Git | ![Git](images/git.svg) |
 
 ## 📫 How to reach me
 
 - **Email:** Emmannatividad099@gmail.com
-- **LinkedIn:** ([https://www.linkedin.com/in/neon-099](https://www.linkedin.com/in/emman-natividad-2172aa2b8/))
+- **LinkedIn:** [Emman Natividad](https://www.linkedin.com/in/emman-natividad-2172aa2b8/))
 - **GitHub:** [Neon-099](https://github.com/Neon-099)
 
 ## ⚡ Fun Fact
