@@ -2,7 +2,7 @@ Hi there, I'm Neony 👋
 
 🚀 About Me
 
-I'm a passionate developer with a keen interest in open-source projects and innovative technologies. My journey in the tech world has been driven by a love for solving complex problems and continuously learning new things.
+My journey in the tech world has been driven by continuously learning new things.
 
 🛠️ Technologies & Tools
 | Python | ![Python](python.svg) |
