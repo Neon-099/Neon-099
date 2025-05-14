@@ -21,7 +21,7 @@ When I'm not coding, you can find me reading non-fictional books.
 
 Feel free to explore my repositories!
 
-[![GitHub Streak](https://github-readme-streak-stat-rho.vercel.app?user=Neon%20&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-pied.vercel.app?user=Neon&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 <!---
 Neon-099/Neon-099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
