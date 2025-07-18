@@ -9,6 +9,8 @@ My journey in the tech world has been driven by continuously learning new things
 ![Html](images/html.svg)
 ![Css](images/css.svg)
 ![JavaScript](images/javascript.svg)
+![Python](images/Python.svg)
+![Tailwind](images/tailwind.svg)
 
 🖥️ Software & Platforms:
 
