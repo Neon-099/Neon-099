@@ -16,6 +16,7 @@ My journey in the tech world has been driven by continuously learning new things
 
 ![VisualStudioCode](images/vst.svg)
 ![Git](images/git.svg)
+![Netlify](images/netlify.svg)
 
 ## ⚡ Fun Fact
 
