@@ -11,8 +11,8 @@ My journey in the tech world has been driven by continuously learning new things
 ![JavaScript](images/javascript.svg)
 ![Tailwind](images/tailwind.svg)
 ![Python](images/Python.svg)
-![Php](images/Php.svg).
-![Mysql](images/Mysql.svg).
+![Php](images/php.svg).
+![Mysql](images/mysql.svg).
 
 🖥️ Software & Platforms:
 
